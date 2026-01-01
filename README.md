@@ -85,7 +85,9 @@ The API will be available at `https://localhost:5202` (or the configured port).
 
 ## 📚 API Documentation
 
-Once the application is running, access the Swagger UI at:
+🌐 **Live API Documentation:** https://dotby.onrender.com/swagger/index.html
+
+For local development, access the Swagger UI at:
 
 ```
 https://localhost:5202/swagger
